@@ -1,6 +1,3 @@
-# Berry
-Berry - Borrowing and Lending Tracker
-
 # 🍓 Berry – Borrowing & Lending Tracker
 
 **Berry** is a simple, strawberry-themed borrowing and lending tracker designed to help users keep track of items they borrow from others and lend to others.
@@ -59,5 +56,3 @@ The main objective of Berry is to provide a simple and convenient solution for m
 - Cloud deployment
 
 ---
-
-**Made with 🍓 and Java.**
